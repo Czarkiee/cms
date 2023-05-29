@@ -5,7 +5,7 @@
     $categories = $result->fetchAll();
 ?>
 
-<a href ="index.php?v=add_category.php" class="btn btn-primary">Dodaj kategorie</a>
+<a href ="index.php?v=add_category" class="btn btn-primary">Dodaj kategorie</a>
 
 <table class="table table-hover">
     <tr>
